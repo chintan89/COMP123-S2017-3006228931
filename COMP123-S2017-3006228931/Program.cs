@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /*
- * Name:
- * Date:
- * StudentID:
- * Description:
- * Version:
+ * Name:Chintan Patel
+ * Date:Aug 18/2017
+ * StudentID:300622893
+ * Description:Pick Higest Card
+ * Version:0.1
  */
 
 namespace COMP123_S2017_3006228931
@@ -24,7 +24,7 @@ namespace COMP123_S2017_3006228931
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PickHighestCardForm());
+            Application.Run(new SplashForm());
         }
     }
 }
